@@ -1,0 +1,4 @@
+.env
+secrets
+/config/default.json
+node_modules
